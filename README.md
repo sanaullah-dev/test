@@ -4,4 +4,4 @@ this is my Example
 * i can delete this file by using the following command
 * now 
 * i want to delete this file by using the following command
-* now
+* now how it will be
